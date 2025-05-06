@@ -1,7 +1,6 @@
 -> First i need some raw data
         My Idea is to use a web scrapper to get these data
         I am going to target these website
-         -- Mayo Clinic
-         -- Web MD
          -- Wikipedia Medical Pages
 -> Then i need to label the data with pandas
+    I will decide later what to do
